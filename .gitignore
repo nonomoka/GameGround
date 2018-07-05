@@ -1,0 +1,6 @@
+/packages
+/.vs
+/WebClient/bin
+/WebClient/obj
+
+/WebClient/WebClient.csproj.user
