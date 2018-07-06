@@ -26,5 +26,15 @@ namespace WebClient.Controllers
 
             return View();
         }
+
+        public ActionResult RegisterPage()
+        {
+            return View();
+        }
+
+        public ActionResult LoginPage()
+        {
+            return View();
+        }
     }
 }
